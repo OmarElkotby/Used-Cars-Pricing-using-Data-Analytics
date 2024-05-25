@@ -1,0 +1,38 @@
+body {
+  background-image: url("custom-car-shop-art-4k.jpg");
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  font-family: "Audiowide", sans-serif;
+  font-size: 1rem;
+  font-style: normal;
+  font-weight: bold;
+  color: aliceblue;
+}
+
+.container {
+  margin: auto;
+  margin-top: 200px;
+  max-width: 50%;
+  padding-top: 40px;
+  
+}
+.container1 {
+  margin-top: 10px;
+}
+.container2 {
+
+  margin-top: 10px;
+}
+.container3 {
+float: left; 
+
+
+}
+
+.container4 {
+  float: right; 
+
+  
+}
